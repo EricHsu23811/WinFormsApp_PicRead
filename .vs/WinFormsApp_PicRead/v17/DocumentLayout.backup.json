@@ -7,8 +7,14 @@
       "RelativeMoniker": "D:0:0:{E1C35D07-403E-4D2B-9368-6522B3970C28}|WinFormsApp_PicRead.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1C35D07-403E-4D2B-9368-6522B3970C28}|WinFormsApp_PicRead.csproj|d:\\_ericonly\\code4reference\\localgit_test\\_repos_codetest\\winformsapp_picread\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WinFormsApp_PicRead||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C35D07-403E-4D2B-9368-6522B3970C28}|WinFormsApp_PicRead.csproj|D:\\_EricOnly\\code4reference\\LocalGit_test\\_repos_CodeTest\\WinFormsApp_PicRead\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E1C35D07-403E-4D2B-9368-6522B3970C28}|WinFormsApp_PicRead.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C35D07-403E-4D2B-9368-6522B3970C28}|WinFormsApp_PicRead.csproj|d:\\_ericonly\\code4reference\\localgit_test\\_repos_codetest\\winformsapp_picread\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +24,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WinFormsApp_PicRead",
+              "DocumentMoniker": "D:\\_EricOnly\\code4reference\\LocalGit_test\\_repos_CodeTest\\WinFormsApp_PicRead\\WinFormsApp_PicRead.csproj",
+              "RelativeDocumentMoniker": "WinFormsApp_PicRead.csproj",
+              "ToolTip": "D:\\_EricOnly\\code4reference\\LocalGit_test\\_repos_CodeTest\\WinFormsApp_PicRead\\WinFormsApp_PicRead.csproj",
+              "RelativeToolTip": "WinFormsApp_PicRead.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-15T07:38:54.417Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +46,14 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\_EricOnly\\code4reference\\LocalGit_test\\_repos_CodeTest\\WinFormsApp_PicRead\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T02:29:39.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "D:\\_EricOnly\\code4reference\\LocalGit_test\\_repos_CodeTest\\WinFormsApp_PicRead\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

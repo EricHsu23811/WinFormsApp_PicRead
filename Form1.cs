@@ -3,7 +3,7 @@
  **  (c) All Rights Reserved.
  **
  ** 2025-09-15, 版本1.0.0.0： WinFormsApp_PicRead，讀取圖檔，使用 Tesseract OCR 引擎 進行文字辨識
- **
+ ** 2025-09-15, 版本1.0.1.0： 改可辨識中文
  **
 ******************************************************************************/
 using System;
@@ -21,7 +21,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Tesseract;    //使用 Tesseract OCR 引擎 進行文字辨識
-using TesseractOCR;
 
 namespace WinFormsApp_PicRead
 {
@@ -195,7 +194,7 @@ namespace WinFormsApp_PicRead
 
             try
             {
-                using (var engine = new TesseractEngine(@"./tessdata", "eng", EngineMode.Default)) // 確保 tessdata 資料夾存在，並包含 "eng.traineddata"
+                using (var engine = new TesseractEngine(@"./tessdata", "chi_tra", EngineMode.Default)) // 確保 tessdata 資料夾存在，並包含 "eng.traineddata"
                 {
                     // 建立一個 TesseractEngine 實例，指定 tessdata 資料夾的路徑和語言
                     // "eng" 代表英文。 你可以根據需要更改語言 (例如 "chi_tra" 代表繁體中文)

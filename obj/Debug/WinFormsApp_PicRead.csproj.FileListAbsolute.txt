@@ -15,10 +15,6 @@ D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bi
 D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\x64\tesseract50.dll
 D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\Tesseract.dll
 D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\obj\Debug\WinForms.743FBE8D.Up2Date
-D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\x86\leptonica-1.85.0.dll
-D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\x86\tesseract55.dll
-D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\x64\leptonica-1.85.0.dll
-D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\x64\tesseract55.dll
 D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
@@ -28,7 +24,6 @@ D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bi
 D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\System.Numerics.Vectors.dll
 D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\System.Threading.Tasks.Extensions.dll
-D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\TesseractOCR.dll
 D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
 D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
 D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
@@ -38,4 +33,3 @@ D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bi
 D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\System.Numerics.Vectors.xml
 D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\System.Threading.Tasks.Extensions.xml
-D:\_EricOnly\code4reference\LocalGit_test\_repos_CodeTest\WinFormsApp_PicRead\bin\Debug\TesseractOCR.xml
